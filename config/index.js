@@ -1,3 +1,3 @@
 export const API_URL = "https://phisback-theta.vercel.app";
 
-export const site = "mejaparsonnalonline.vercel.app";
+export const site = "site-post-list.vercel.app";
